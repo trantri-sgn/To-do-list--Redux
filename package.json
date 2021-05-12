@@ -17,7 +17,7 @@
     "react-id-swiper": "^3.0.0",
     "react-redux": "^7.2.0",
     "react-scripts": "3.4.1",
-    "swiper": "^5.3.6",
+    "swiper": "^6.5.1",
     "uuid": "^7.0.3"
   },
   "scripts": {
